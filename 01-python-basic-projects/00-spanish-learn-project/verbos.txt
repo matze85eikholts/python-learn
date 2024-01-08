@@ -1,0 +1,6 @@
+trabajar:
+cambiar:
+golpear:
+unir:
+taladrar:
+afilar:
