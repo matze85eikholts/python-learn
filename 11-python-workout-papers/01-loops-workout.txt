@@ -8,6 +8,14 @@ for x in range(1,10):
   print(x)
 for x in range(1,20):
   print(x)
+for x in range(1,30):
+  print(x)
+for x in range(1,40):
+  print(x)
+for x in range(1,50):
+  print(x)
+for x in range(1,60):
+  print(x)
 
 
 #0 1 2 3 4
@@ -83,3 +91,51 @@ count = 10
 while count < 70
   print(count)
   count += 8
+
+count = 11
+while count < 80
+  print(count)
+  count += 9
+
+count = 12
+while count < 90
+  print(count)
+  count += 10
+
+count = 13
+while count < 100
+  print(count)
+  count += 11
+
+count = 14 
+while count < 110
+  print(count)
+  count += 12
+
+count = 15
+while count < 120
+  print(count)
+  count += 13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

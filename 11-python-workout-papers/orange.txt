@@ -1,3 +1,6 @@
 def orange():
    print("I am orange")
-  
+def apple():
+   print("I am apple")
+def pinapple():
+   print("I am pinapple")  
