@@ -1,0 +1,13 @@
+import os
+with open("test.txt", "xt") as f:
+   f.write("This a new file")
+   f.close()
+
+#-------------------------------------
+import os
+
+with open("file.txt", "rt") as f:
+  data = f.read()
+  f.close()
+print(data)
+os.remove("file.txt")

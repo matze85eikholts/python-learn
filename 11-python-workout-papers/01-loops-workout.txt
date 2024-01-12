@@ -16,6 +16,12 @@ for x in range(1,50):
   print(x)
 for x in range(1,60):
   print(x)
+for x in range(1,60):
+  print(x)
+for i in range(1,70):
+  print(x)
+for x in range(1,80):
+  print(x)
 
 
 #0 1 2 3 4
@@ -34,6 +40,14 @@ for i in range(8):
 for i in range(9):
   print(i)
 for i in range(10):
+  print(i)
+for i in range(11):
+  print(i)
+for i in range(12):
+  print(i)
+for i in range(13):
+  print(i)
+for i in range(14):
   print(i)
 
 #while-loop
@@ -116,6 +130,31 @@ count = 15
 while count < 120
   print(count)
   count += 13
+
+count = 16
+while count < 130
+  print(count)
+  count += 14
+
+count = 17
+while count < 131
+  print(count)
+  count += 15
+
+count 18 
+while count < 132
+  print(count)
+  count += 16
+
+count 19 
+while count < 133
+  print(count)
+  count += 17
+
+count 20
+while count < 134
+  print(count)
+  count += 18
 
 
 
