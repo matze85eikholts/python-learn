@@ -49,6 +49,14 @@ for i in range(13):
   print(i)
 for i in range(14):
   print(i)
+for i in range(15):
+  print(i)
+for i in range(15):
+  print(i)
+for i in range(15):
+  print(i)
+for i in range(16):
+  print(i)
 
 #while-loop
 count = 0
@@ -151,10 +159,23 @@ while count < 133
   print(count)
   count += 17
 
-count 20
+count=20
 while count < 134
   print(count)
   count += 18
+
+count = 21
+while count < 135
+  print(count)
+  count += 19
+
+count = 22 
+while count < 150 
+  print(count)
+  count += 20
+
+
+
 
 
 
